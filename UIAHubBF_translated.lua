@@ -1,7 +1,7 @@
 
 
 
-shared.LoaderTitle = "Subscribe to Nghia Roblox Channel";
+shared.LoaderTitle = "Subscribe to UIA Roblox Channel";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -27,7 +27,7 @@ local v2 = {
             Main = Color3.fromRGB(0, 0, 0),
             Topic = Color3.fromRGB(200, 200, 200),
             Title = Color3.fromRGB(255, 255, 255),
-            LoaderBackground = Color3.fromRGB(40, 40, 40),
+            LoaderBackground = Color3.fromRGB(255, 255, 255),
             LoaderSplash = Color3.fromRGB(255, 255, 255)
         }
     },
@@ -313,7 +313,7 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-    Title = "Nghia Roblox Hub",
+    Title = "UIA Roblox Hub",
     SubTitle = "Blox Fruit",
     TabWidth = 160,
     Theme = "Dark",
